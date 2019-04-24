@@ -22,8 +22,9 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+<audio src="https://drive.google.com/open?id=1yYxXyvUKc6uldUG12hpgITh0wyQpLORB&authuser=0" type="audio/mp3" autoplay=""></audio>
   <img class="w3-image" src="https://forums.awgeshit.com/assets/uploads/files/1556050441595-scaredfam.png">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-white w3-opacity-min"><b>KEY-G</b></span> <span class="w3-hide-small w3-text-light-white">KEY GLASSES</span></h1>
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-white w3-opacity-min"><b>INTO GLASSES_</b></span> <span class="w3-hide-small w3-text-light-white">KEY GLASSES</span></h1>
   
   </div>
 </header>
@@ -35,56 +36,48 @@
   <div class="w3-container w3-padding-32" id="projects">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Products</h3>
   </div>
-
+<b>
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Happy</div>
-        <img src="" alt="Happy " style="width:230px;height:300px;">
+
+        <img src="https://forums.awgeshit.com/assets/uploads/files/1556068212622-download.png" alt="Happy " style="width:350px;height:300px;">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-       <img src="https://i.gifer.com/F9Ci.gif" alt="House" style="width:400px;height:900px;" align="middle">
+       <img src="https://dazedprod.blob.core.windows.net/dazed-prod/1140/2/1142651.gif" alt="House" style="width:550px;height:900px;" align="middle">
       </div>
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:100%">
-      </div>
+    
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:100%">
-      </div>
+   
     </div>
   </div>
 
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Summer House</div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:99%">
+        <div class="w3-display-topleft w3-black w3-padding">INTO SMART</div>
+        <img src="https://forums.awgeshit.com/assets/uploads/files/1556069285369-design-1.jpeg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Brick House</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:99%">
+        <div class="w3-display-topleft w3-red w3-padding">HAPPY</div>
+        <img src="https://forums.awgeshit.com/assets/uploads/files/1556067686947-8ff8d535fe862ce4a7f1543124baad58-resized.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:99%">
+        <div class="w3-display-topleft w3-yellow w3-padding">GET SERIOUS</div>
+        <img src="https://forums.awgeshit.com/assets/uploads/files/1556070342885-gpevoglorqco0eplhmql_2_400x.progressive_6ca850f8-05fd-4957-aa72-4dedc72c8e64_630x630.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:99%">
+        <div class="w3-display-topright w3-black w3-padding">INTO AWGE</div>
+        <img src="https://forums.awgeshit.com/assets/uploads/files/1556069292365-design.jpeg" alt="House" style="width:99%">
       </div>
     </div>
   </div>
@@ -92,9 +85,11 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat.
+    <p>Key into your next job. <b>
+    Key into your next A. <b>
+    Key into your end game. <b>
+    Key into the future with Key Glasses <b>  	
+    
     </p>
   </div>
 
