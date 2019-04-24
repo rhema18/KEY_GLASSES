@@ -1,4 +1,3 @@
--
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
@@ -22,7 +21,7 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-<audio src="https://drive.google.com/open?id=1yYxXyvUKc6uldUG12hpgITh0wyQpLORB&authuser=0" type="audio/mp3" autoplay=""></audio>
+<audio src="https://dwvo2npct47gg.cloudfront.net/audio/tyler-awge.mp3" type="audio/mp3" autoplay=""></audio>
   <img class="w3-image" src="https://forums.awgeshit.com/assets/uploads/files/1556050441595-scaredfam.png">
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-white w3-opacity-min"><b>INTO GLASSES_</b></span> <span class="w3-hide-small w3-text-light-white">KEY GLASSES</span></h1>
   
